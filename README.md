@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mazzaKaio
+- 👋 Hi, I’m Kaio Mazza
 - 👀 I’m interested in backend programming
 - 🌱 I’m currently learning Java
 - 📫 How to reach me? With "Instagram - @kaio__mazza"
