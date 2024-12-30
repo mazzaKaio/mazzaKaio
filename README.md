@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kaio Mazza
-- 👀 I’m interested in backend programming
+- 👀 I’m interested in Back-End Programming
 - 🌱 I’m currently learning Java
 - 📫 How to reach me? With "Instagram - @kaio__mazza"
 - ⚡ Fun fact: I not am a good person, but, I want to improve
