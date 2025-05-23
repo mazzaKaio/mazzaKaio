@@ -13,11 +13,6 @@ Tenho foco no Back-End, com desejo de conhecer tecnologias de Java, como o Sprin
             title="Seguidores GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/mazzaKaio?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
      <a href="https://github.com/mazzaKaio?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/mazzaKaio?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
 <a href="https://instagram.com/kaio__mazza" target="_blank">
         <img
           alt="Instagram" 
