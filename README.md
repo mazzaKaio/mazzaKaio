@@ -1,10 +1,10 @@
 # Kaio Gomes do Nascimento Mazza
 
-**`Full Back-End | Aprendendo Python e Java`**
+**`Full Back-End | Aprendendo PHP e Front-End (HTML5, CSS3, JavaScript & BootStrap)`**
 
-Olá, sou Kaio Mazza, muito prazer! Estou cursando o 2º ano do Ensino Médio e também um técnico em Desenvolvimento de Sistemas. Tenho forte ambição na área de Desenvolvimento e Dados, estou disposto a melhorar e aprender o que for o necessário. 
+Olá, sou Kaio Mazza, muito prazer! Estou cursando o 2º ano do Ensino Médio e também o curso Técnico em Desenvolvimento de Sistemas. Tenho forte ambição na área de Desenvolvimento e Dados, estou disposto a melhorar e aprender o que for o necessário. 
 
-Tenho foco no Back-End, com desejo de conhecer tecnologias de Java, como o Spring Boot, Spring Security e etc. Atualmente também estou estudando Python e SQL. 
+Tenho foco no Back-End, com desejo de conhecer tecnologias de Java, como o Spring Boot, Spring Security e etc. Atualmente também estou estudando PHP, HTML5, CSS3, JavaScript e BootStrap como biblioteca de Front-End. 
 
 <p align="left">
 <a href="https://github.com/mazzaKaio?tab=followers">
@@ -61,6 +61,23 @@ Tenho foco no Back-End, com desejo de conhecer tecnologias de Java, como o Sprin
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="HTML5" 
+    title="HTML5"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html/html5-original.svg" 
 />
     
 <br/>
